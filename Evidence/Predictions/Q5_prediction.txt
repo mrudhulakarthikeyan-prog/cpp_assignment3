@@ -1,0 +1,8 @@
+Q5 prediction – COMPLETE BEFORE RUNNING
+Date/time written:
+Predicted output:
+
+[Write the exact output here before compiling/running.]
+
+Actual output (after execution):
+Explanation of differences:

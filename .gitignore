@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.out
+.vscode/
+
+# Compiled executables
+*.exe
+q*_asan
+q*_complete
+q*_asan.exe
+shallow_asan
+predict_output
